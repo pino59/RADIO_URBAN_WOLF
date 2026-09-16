@@ -1,9 +1,9 @@
-Radio Urban Wolf è un player radio open source per Android.
+Radio Urban Wolf è un player per stazioni radio in streaming
 
 Caratteristiche principali:
 - Ascolto di stazioni radio in streaming
 - Interfaccia semplice e intuitiva
 - Nessuna pubblicità
-- Codice sorgente completamente aperto
+- Riproduzione in background
 
 L'applicazione è sviluppata con Android Studio e utilizza librerie open source.
