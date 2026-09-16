@@ -1,0 +1,6 @@
+Versione iniziale di Radio Urban Wolf.
+
+Funzionalità:
+- Riproduzione di stazioni radio in streaming
+- Riproduzione in background
+- Interfaccia semplice e intuitiva

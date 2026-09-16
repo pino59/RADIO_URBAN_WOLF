@@ -1,0 +1,16 @@
+# File generati da Gradle
+.gradle/
+build/
+app/build/
+
+# File di Android Studio
+.idea/
+*.iml
+local.properties
+
+# File di firma (non devono MAI essere pubblici)
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+app/release/
